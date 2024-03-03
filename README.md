@@ -1,5 +1,5 @@
 # MYSQL_JSON
-activity by Sir Paweks
+activity made by Sir Paweks
 
 1.1.SELECT name, description FROM products;
 1.2.SELECT  name, description, 
